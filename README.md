@@ -1,4 +1,4 @@
 # Ayush-demo
 My first git repo.
 <br>
-Author - Ayush
+Author - Ayush Kumar
